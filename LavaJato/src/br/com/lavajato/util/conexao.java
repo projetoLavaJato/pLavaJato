@@ -1,4 +1,4 @@
-package br.com.lavajato.util;
+package br.com.LavaJato.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
